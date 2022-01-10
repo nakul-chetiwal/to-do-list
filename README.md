@@ -1,4 +1,4 @@
-# to-do-list
+# Todo Checklist
 Simple react application
 
 # Steps to Run
